@@ -1,0 +1,15 @@
+span.glyphicon.glyphicon-remove-circle {
+    float: right;
+    margin-top: -15px;
+}
+
+i.glyphicon.glyphicon-glyphicon-ok.mt-10 {
+    margin-left: 38px;
+}
+
+ul.dropdown-menu {
+    padding-left: 16px;
+}
+.open>.dropdown-menu li {
+    cursor: pointer;
+}
